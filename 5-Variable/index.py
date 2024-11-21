@@ -5,11 +5,12 @@ x, y = 500, 400
 
 # ----------------------------------------------
 num = 100
-print(num-1)
+print(num - 1)
 
 # ----------------------------------------------
-x = 5
-x = "Armin"
+num1 = 5
+
+num2 = "Armin"
 
 # ----------------------------------------------
 # How to properly define a variable
@@ -25,7 +26,6 @@ myVar2 = "john"
 
 # ----------------------------------------------
 # The wrong way to define a variable
-
 # 2myvar = "john"
 
 # my-var = "john"
