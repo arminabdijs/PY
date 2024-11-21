@@ -3,6 +3,6 @@
 
 # print(type(5.5))
 
-# print(type("Armin"))
+print(type("Armin"))
 
 # ----------------------------------------------
